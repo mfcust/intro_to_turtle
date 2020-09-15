@@ -17,7 +17,7 @@ The next thing we want to do is save our turtle pen as a variable t so it's easi
 t = turtle.Pen()
 ```
 
-Now if I want to move my turtle forwars 100 pixels, I can simply write:
+Now if I want to move my turtle forward 100 pixels, I can simply write:
 ```
 t.forward(100)
 ```
