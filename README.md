@@ -22,5 +22,8 @@ Now if I want to move my turtle forward 100 pixels, I can simply write:
 t.forward(100)
 ```
 
+Repl.it doesn't do such a great job with graphics, so if you can't visualize your work in the console, then you should run your code in the Terminal app on your Mac. It's easy to spot if you spotlight search and type in terminal. Then, there will be a cursor that allows you to type in input. Type 'python' and then hit enter. Then type 'import turtle' and hit enter. Then type t=turtle.Pen() and hit enter. After that, your canvas should be ready to go.
+
+
 Navigate to the py file to practice using the turtle library!
 
